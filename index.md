@@ -9,7 +9,7 @@ I have been building a technology skillset for around 20 years. I have previous 
 
 ---
 [Solidity](https://github.com/githubexplorer38237213271/solidity)
-<img src="images/solidity_logo.jpg"/>
+<img src="images/solidity_logo.svg"/>
 
 ---
 [Ethereum](https://github.com/githubexplorer38237213271/go-ethereum)
@@ -17,7 +17,7 @@ I have been building a technology skillset for around 20 years. I have previous 
 
 ---
 [Namada](https://github.com/githubexplorer38237213271/namada)
-<img src="images/namada-logo.jpg"/>
+<img src="images/namada-logo.svg"/>
 
 ---
 +more
