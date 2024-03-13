@@ -20,6 +20,7 @@ I have been building a technology skillset for around 20 years. I have previous 
   </p>
   <p style="display:flex;align-items:center;flex-flow:column;">
     <a href="https://github.com/githubexplorer38237213271/namada">Namada</a>
+    <br>
     <img src="images/namada-logo.svg" height="200px" width="200px"/>
   </p>
 </section>
