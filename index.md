@@ -1,35 +1,28 @@
 ## Portfolio
 
----
+I have been building a technology skillset for around 20 years. I have previous experience in every company type. I enjoy complex engineering adventures. I am also a digital marketer, designer, researcher, musician, & writer.  I enjoy travel & exploring world culture. 
 
-### Category Name 1 
+### Contributing to: 
 
-[Project 1 Title](/sample_page)
+[Rust](https://github.com/githubexplorer38237213271/rust)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Solidity](https://github.com/githubexplorer38237213271/solidity)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Ethereum](https://github.com/githubexplorer38237213271/go-ethereum)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Namada](https://github.com/githubexplorer38237213271/namada)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
++more
+<br>
 
-
-
-
----
+--
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
