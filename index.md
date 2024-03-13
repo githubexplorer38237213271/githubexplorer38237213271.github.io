@@ -5,19 +5,19 @@ I have been building a technology skillset for around 20 years. I have previous 
 ### Contributing to: 
 
 [Rust](https://github.com/githubexplorer38237213271/rust)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rust.png?raw=true"/>
 
 ---
 [Solidity](https://github.com/githubexplorer38237213271/solidity)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/solidity_logo.jpg"/>
 
 ---
 [Ethereum](https://github.com/githubexplorer38237213271/go-ethereum)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/eth.png"/>
 
 ---
 [Namada](https://github.com/githubexplorer38237213271/namada)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/namada-logo.jpg"/>
 
 ---
 +more
