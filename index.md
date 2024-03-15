@@ -4,7 +4,7 @@
 I have been building a technology skillset for around 20 years. I have previous experience in every company type. I enjoy complex engineering adventures. I am also a digital marketer, designer, researcher, musician, & writer.  I enjoy travel & exploring world culture. 
 </p>
 
-### CONTRIBUTING TO: 
+### CONTRIBUTING TO
 <section style="display:flex;flex-flow:row;flex-wrap:wrap;justify-content:space-between;">
   <p style="display:flex;align-items:center;flex-flow:column;">
     <a href="https://github.com/githubexplorer38237213271/rust">Rust</a>
@@ -23,6 +23,15 @@ I have been building a technology skillset for around 20 years. I have previous 
     <br>
     <img src="images/namada-logo.svg" height="200px" width="200px"/>
   </p>
+
+[//]: # ( Need to add later.) 
+[//]: # ( https://github.com/tensorflow/ )
+[//]: # ( https://github.com/facebook/folly )
+[//]: # ( https://github.com/spring-projects/spring-boot )
+[//]: # ( https://github.com/golang/go )
+
+
+
 </section>
 <br>
 
