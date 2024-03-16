@@ -24,11 +24,11 @@ I have been building a technology skillset for around 20 years. I have previous 
     <img src="images/namada-logo.svg" height="200px" width="200px"/>
   </p>
 
-[//]: # ( Need to add later.) 
-[//]: # ( https://github.com/tensorflow/ )
-[//]: # ( https://github.com/facebook/folly )
-[//]: # ( https://github.com/spring-projects/spring-boot )
-[//]: # ( https://github.com/golang/go )
+[comment]: <> ( Need to add later.) 
+[comment]: <> ( https://github.com/tensorflow/ )
+[comment]: <> ( https://github.com/facebook/folly )
+[comment]: <> ( https://github.com/spring-projects/spring-boot )
+[comment]: <> ( https://github.com/golang/go )
 
 
 
